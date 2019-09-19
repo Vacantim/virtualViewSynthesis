@@ -1,0 +1,2 @@
+# virtualViewSynthesis
+Qt + opencv
